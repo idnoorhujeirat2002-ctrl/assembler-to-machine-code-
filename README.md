@@ -1,2 +1,2 @@
 # assembler-to-machine-code-
-open University Assemler Project in C language
+Open University Assemler final Project in C language at the Curse (System Features Laboratory 20465)
